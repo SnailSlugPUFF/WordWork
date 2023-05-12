@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordWork", "WordWork\WordWork.csproj", "{39D9AFD6-72A6-4904-B486-EE76C238C7A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D9AFD6-72A6-4904-B486-EE76C238C7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D9AFD6-72A6-4904-B486-EE76C238C7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D9AFD6-72A6-4904-B486-EE76C238C7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D9AFD6-72A6-4904-B486-EE76C238C7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CCBF99D-E7EE-470D-BE70-A3B83FDC72CD}
+	EndGlobalSection
+EndGlobal
